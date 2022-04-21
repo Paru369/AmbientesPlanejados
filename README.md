@@ -37,12 +37,12 @@ Versão única
 
 
 
-* **Paulo Victor Pinheiro** - *Trabalho Inicial* - [Paru - Paulo Victor](https://www.linkedin.com/in/paulo-pinheiro-4a94b0150/)
+* **Paulo Victor Pinheiro** - *html e css* - [Paru - Paulo Victor](https://www.linkedin.com/in/paulo-pinheiro-4a94b0150/)
 
 
 
 
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos e dedicatórias
 
 * Gratidão à equipe Rocketseat
 
