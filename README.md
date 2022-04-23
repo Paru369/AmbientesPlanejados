@@ -3,6 +3,7 @@
 # Página para decoração de interiores
 
 Projeto 01 do programa Explorer da Rockeseat. Minhas primeiras linhas de código :)
+Comecei a estudar programcação em 28/3/22. Esse projeto vai ficar registrado para eu lembrar sempre da minha evolução.
 
 <img src="./Screenshot.png"> 
 
