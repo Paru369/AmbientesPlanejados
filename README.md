@@ -5,8 +5,11 @@
 Projeto 01 do programa Explorer da Rockeseat. Minhas primeiras linhas de código :)
 Comecei a estudar programcação em 28/3/22. Esse projeto vai ficar registrado para eu lembrar sempre da minha evolução.
 
+Veja a pagina em seu navegador: https://paru369.github.io/AmbientesPlanejados/
+<br>
 Figma do projeto: https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1
-Deploy: https://paru369.github.io/AmbientesPlanejados/
+
+
 
 <img src="./Screenshot.png"> 
 
