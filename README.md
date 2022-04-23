@@ -16,11 +16,11 @@ Figma do projeto: https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---P
 
 ## 🚀 Começando
 
-Basta execultar a partir do link : https://paru369.github.io/AmbientesPlanejados/
+Basta executar a partir do link : https://paru369.github.io/AmbientesPlanejados/
 
 ### 📋 Pré-requisitos
 
-Execultavel em qualquer navegador
+Executavel em qualquer navegador
 
 ### 🔧 Instalação
 
@@ -28,7 +28,7 @@ Não carece de instalação
 
 ## 📦 Desenvolvimento
 
-É uma pagina HTML estilizada em CSS, aplicavel em qualquer sistema WEB
+É uma página HTML estilizada em CSS, aplicável em qualquer sistema WEB
 
 ## 🛠️ Construído com
 
