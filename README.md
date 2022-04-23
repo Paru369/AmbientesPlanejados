@@ -3,9 +3,9 @@
 # Página para decoração de interiores
 
 Projeto 01 do programa Explorer da Rockeseat. Minhas primeiras linhas de código :)
-Comecei a estudar programcação em 28/3/22. Esse projeto vai ficar registrado para eu lembrar sempre da minha evolução.
+Comecei a estudar programação em 28/3/22. Esse projeto vai ficar registrado para eu lembrar sempre da minha evolução.
 
-Veja a pagina em seu navegador: https://paru369.github.io/AmbientesPlanejados/
+Veja a página em seu navegador: https://paru369.github.io/AmbientesPlanejados/
 <br>
 Figma do projeto: https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1
 
@@ -16,11 +16,11 @@ Figma do projeto: https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---P
 
 ## 🚀 Começando
 
-Basta execultar a partir do link : https://paru369.github.io/AmbientesPlanejados/
+Basta executar a partir do link : https://paru369.github.io/AmbientesPlanejados/
 
 ### 📋 Pré-requisitos
 
-Execultavel em qualquer navegador
+Executável em qualquer navegador
 
 ### 🔧 Instalação
 
@@ -28,7 +28,7 @@ Não carece de instalação
 
 ## 📦 Desenvolvimento
 
-É uma pagina HTML estilizada em CSS, aplicavel em qualquer sistema WEB
+É uma página HTML estilizada em CSS, aplicável em qualquer sistema WEB
 
 ## 🛠️ Construído com
 
